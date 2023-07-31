@@ -1,0 +1,2 @@
+# vpscheck
+check all
